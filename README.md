@@ -2,8 +2,8 @@
 
 **Course:** Computer Organization and Architecture  
 **Submitted to** Dr. Munesh Singh  
-**Submitted By:** Devam Kharbanda  
-**Roll Number:** 242120037  
+**Submitted By:** Dhruv Saini 
+**Roll Number:** 242120038
 **Class:** CSE-1 G2  
 
 ---
